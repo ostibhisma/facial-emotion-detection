@@ -3,7 +3,7 @@ This is a Facial Emotion Detection Project
 
 ### First clone the project
 ```bash
-   
+   https://github.com/bhisma9816/facial-emotion-detection.git
 ```
 ### Create new environment for the project virtualenv.
 ```bash
