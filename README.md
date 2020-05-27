@@ -14,7 +14,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### Download the data from here [https://www.kaggle.com/deadskull7/fer2013] and keep it inside the "fer2013" folder
+### Download the data from (here) [https://www.kaggle.com/deadskull7/fer2013] and keep it inside the "fer2013" folder
 
 ### Now run (To train the model from scratch please enter "training" else to check project please enter "no")
 ```bash
